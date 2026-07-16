@@ -15,10 +15,10 @@ Website: https://artapayamak.com
 
 ## Setup
 
-Add your API token to `.env`:
+Copy `.env.example` to `.env` and set your API token:
 ```env
 IPPANEL_API_TOKEN=your_api_token_here
-```
+
 ## Example
 Main example file:
 
