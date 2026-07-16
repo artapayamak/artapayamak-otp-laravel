@@ -17,7 +17,7 @@ https://artapayamak.com
 ## Setup
 
 Add your API token to `.env`:
-```env
+```env```
 IPPANEL_API_TOKEN=your_api_token_here
 ## Example
 Main example file:
