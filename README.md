@@ -6,8 +6,7 @@ Laravel example for sending OTP SMS via IPPanel Edge API.
 
 This repository shows a simple example of sending OTP SMS using Laravel HTTP Client and IPPanel Edge API.
 
-Website:
-https://artapayamak.com
+Website: https://artapayamak.com
 
 ## Requirements
 
@@ -17,12 +16,13 @@ https://artapayamak.com
 ## Setup
 
 Add your API token to `.env`:
-```env```
+```env
 IPPANEL_API_TOKEN=your_api_token_here
+```
 ## Example
 Main example file:
 
-app/Services/SendOtpService.php
+`app/Services/SendOtpService.php`
 
 ## Security Note
 Do not hardcode your real API token in source code.
